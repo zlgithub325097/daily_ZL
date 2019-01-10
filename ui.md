@@ -68,7 +68,7 @@ lbl5.font = [UIFont systemFontOfSize:13];
 }
 ```
 
-* [ ] > ### TableView 注册的几种方式
+* [x] > ### TableView 注册的几种方式
 
   简书：[https://www.jianshu.com/p/6798662454e1](https://www.jianshu.com/p/6798662454e1)  \(很规范的自定义cell\)
 
@@ -89,7 +89,6 @@ UITableViewCell * cell = [tableView dequeueReusableCellWithIdentifier:@"cell"];
 
     }
 }
-
 ```
 
 ```
@@ -153,7 +152,7 @@ UITableViewCell * cell = [tableView dequeueReusableCellWithIdentifier:@"cell"];
 在使用xib的时候直接拉控件就可以啦
 ```
 
-* [ ] > ### 自定义UITableViewCell大致有两类方法：
+* [x] > ### 自定义UITableViewCell大致有两类方法：
 
 ```
 【1】使用nib
@@ -205,7 +204,7 @@ xxxxxCell *cell = [tableView dequeueReusableCellWithIdentifier:kCellIdentify for
 使用dequeueReuseableCellWithIdentifier:forIndexPath:必须注册，但返回的cell可省略空值判断的步骤。
 ```
 
-* [ ] > ### 新建pch文件注意
+* [x] > ### 新建pch文件注意
 
 ```
 新建pch文件之后需要设置
@@ -213,7 +212,7 @@ xxxxxCell *cell = [tableView dequeueReusableCellWithIdentifier:kCellIdentify for
 
 ![](/assets/pch.png)
 
-* [ ] > ### CoocaPods 文件
+* [x] > ### CoocaPods 文件
 
 ```
 注意：Podfile 文件和Xcode项目必须处于同一个目录下！！！
