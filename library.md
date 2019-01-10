@@ -1,4 +1,4 @@
-##  IQKeyboardManager   键盘处理神器 
+## IQKeyboardManager   键盘处理神器
 
 ## AFNetworking
 
