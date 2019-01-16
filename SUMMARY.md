@@ -4,4 +4,5 @@
 * [UI](ui.md)
 * [Network](network.md)
 * [Library](library.md)
+* [notes](notes.md)
 
