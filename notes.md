@@ -34,12 +34,12 @@ NSData *content=[NSData dataWithBytes:byteData length:16];
 
 ```
 - (NSData *)toJSONData:(id)theData{
-    
+
     NSError *error = nil;
     NSData *jsonData = [NSJSONSerialization dataWithJSONObject:theData
                                                        options:NSJSONWritingPrettyPrinted
                                                          error:&error];
-    
+
     if ([jsonData length] > 0 && error == nil){
         return jsonData;
     }else{
@@ -52,19 +52,19 @@ NSData *content=[NSData dataWithBytes:byteData length:16];
 
 ```
 -  (id)toArrayOrNSDictionary:(NSData *)jsonData{
-    
+
     NSError *error = nil;
     id jsonObject = [NSJSONSerialization JSONObjectWithData:jsonData
                                                     options:NSJSONReadingAllowFragments
                                                       error:nil];
-    
+
     if (jsonObject != nil && error == nil){
         return jsonObject;
     }else{
         // 解析错误
         return nil;
     }
-    
+
 }
 ```
 
