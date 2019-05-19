@@ -17,6 +17,10 @@ $ git push origin HEAD:master --force
 
 git 版本回退
 
+```
+
+```
+
 git 单个文件提交
 
 git 文件修改对比
