@@ -137,7 +137,5 @@ Run 'pod install' or update your CocoaPods installation.
 
 ![](/assets/3.png)![](/assets/4.png)
 
-
-
-文章链接:
+文章链接:[https://www.jianshu.com/p/e66b71122cfe](https://www.jianshu.com/p/e66b71122cfe)
 
