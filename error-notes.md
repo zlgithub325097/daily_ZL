@@ -133,5 +133,7 @@ Run 'pod install' or update your CocoaPods installation.
 5> 最后，如果还有错误，可以尝试在工程设置中修改配置选项
 ```
 
+截图如下:
 
+![](/assets/3.png)![](/assets/4.png)
 
