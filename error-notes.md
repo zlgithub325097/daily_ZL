@@ -95,3 +95,21 @@
 
 处理方案:    sudo xcode-select --switch/Applications/Xcode.app
 
+文章链接:[https://www.jianshu.com/p/cbf22dcae059](https://www.jianshu.com/p/cbf22dcae059)
+
+### IOS 导入Pods报错
+
+```
+
+```
+
+
+
+
+
+
+
+
+
+
+
