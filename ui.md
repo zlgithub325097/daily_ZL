@@ -177,7 +177,6 @@ if (self)
 {
 
     // cell页面布局
-
     [self setupView];
 
 }
