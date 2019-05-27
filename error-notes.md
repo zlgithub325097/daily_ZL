@@ -114,7 +114,9 @@ Run 'pod install' or update your CocoaPods installation.
 3> 在target - Build Phases 中删除带有pod的项
 ```
 
-    ![](/assets/1767501-46ac767b61cfde73.png)
+```
+![](/assets/1767501-46ac767b61cfde73.png)
+```
 
 ```
 4> 如果到这一步报错
