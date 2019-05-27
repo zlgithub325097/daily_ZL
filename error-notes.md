@@ -127,3 +127,5 @@ Run 'pod install' or update your CocoaPods installation.
 
 截图如下:
 
+![](/assets/2.png)
+
