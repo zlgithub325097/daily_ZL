@@ -100,9 +100,16 @@
 ### IOS 导入Pods报错
 
 ```
-diff: /../Podfile.lock: No such file or directory   
-diff: /Manifest.lock: No such file or directory error: The sandbox is not in sync with the Podfile.lock. 
+diff: /../Podfile.lock: No such file or directory   
+diff: /Manifest.lock: No such file or directory error: The sandbox is not in sync with the Podfile.lock. 
 Run 'pod install' or update your CocoaPods installation.
+```
+
+解决方案
+
+```
+1> 删除四个文件：mingonghui.xcworkspace；Podfile；Podfile.lock；Pods
+2> mingonghui.xcodeproj显示包内容，删除project.xcworkspace文件
 ```
 
 
