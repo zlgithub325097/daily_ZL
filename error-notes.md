@@ -129,10 +129,8 @@ Run 'pod install' or update your CocoaPods installation.
 
 ![](/assets/2.png)
 
-
-
 ```
-
+5> 最后，如果还有错误，可以尝试在工
 ```
 
 
