@@ -114,5 +114,13 @@ Run 'pod install' or update your CocoaPods installation.
 3> 在target - Build Phases 中删除带有pod的项
 ```
 
+    ![](/assets/1767501-46ac767b61cfde73.png)
+
+```
+4> 如果到这一步报错
+   ld: library not found for -lPods-haoshuTest
+   clang: error: linker command failed with exit code 1 (use -v to see invocation)
+```
+
 
 
