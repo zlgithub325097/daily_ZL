@@ -125,5 +125,5 @@ Run 'pod install' or update your CocoaPods installation.
    删除爆红的静态库文件，编译就ok
 ```
 
-
+截图如下
 
