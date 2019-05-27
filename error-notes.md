@@ -111,6 +111,9 @@ Run 'pod install' or update your CocoaPods installation.
 1> 删除四个文件：mingonghui.xcworkspace；Podfile；Podfile.lock；Pods
 2> mingonghui.xcodeproj显示包内容，删除project.xcworkspace文件；
    返回项目根目录，打开原来后缀为xcodeproj的工程，可能会报错，接下来继续步骤。
+3> 在target - Build Phases 中删除带有pod的项
+   
+   
 ```
 
 
