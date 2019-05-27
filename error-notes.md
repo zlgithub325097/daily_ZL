@@ -118,5 +118,11 @@ Run 'pod install' or update your CocoaPods installation.
 
 ![](/assets/1767501-46ac767b61cfde73.png)
 
+```
+4> 如果到这一步报错
+   ld: library not found for -lPods-haoshuTest
+   clang: error: linker command failed with exit code 1 (use -v to see invocation)
+```
+
 
 
